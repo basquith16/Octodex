@@ -1,0 +1,35 @@
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #DBDBDB;
+  line-height: 15px;
+}
+img {
+  max-width: 33%;
+}
+
+span {
+  font-weight: 100;
+  font-style: normal;
+}
+h1{
+  width: 50%;
+  padding-left: 5px;
+  flex-direction: row;
+}
+
+pre {
+  font-weight: 600;
+  font-style: bold;
+  font-size: 16px;
+  padding-right: 10px;
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  line-height: 15px;
+  background-color: #DBDBDB;
+}
